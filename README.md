@@ -1,3 +1,6 @@
+<img width="927" height="819" alt="project3" src="https://github.com/user-attachments/assets/be3a4074-4009-48bc-9d64-ff302ef34373" />
+<img width="979" height="1583" alt="project2" src="https://github.com/user-attachments/assets/e48c71dd-6c3a-4bd7-9718-44e22de1ee6a" />
+<img width="1247" height="968" alt="project1" src="https://github.com/user-attachments/assets/2693d698-5454-4e84-8d97-e6a05adc69b3" />
 # 🌍 Population Economic Insights Analysis
 
 ## 📖 Overview
